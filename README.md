@@ -1,7 +1,5 @@
 # 📈 NIFTY 50 Options — Volatility Analysis & SABR Calibration
 
-> End-to-end quantitative analysis of NIFTY 50 options data: implied volatility smile construction, skew analysis, and SABR model calibration using real market option chain data.
-
 ---
 
 ## Overview
